@@ -10,5 +10,5 @@ All this information is stored in a MySQL database which is stored on the Google
 
 ## Built With
 
-- Java 11
+- Java
 - Spring Boot 2.0
